@@ -19,8 +19,9 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
+<p><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/985/screenshots/Amazon_Web_Services_logo_AWS.png" alt="" width="300" height="131" /></p>
 <p>Amazon Simple Storage Service (Amazon S3) is object storage to store and retrieve any amount of data from anywhere on the web. It is designed to deliver 99.999999999% durability, and scale past trillions of objects worldwide.</p>
-<p>The action pack allows you to manage S3 buckets and copy, move, delete and synchnoise files between other S3 buckets or local filesystems.</p>
+<p>The action pack allows you to manage S3 buckets and copy, move, delete and synchronize files between other S3 buckets or local filesystems.</p>
 <p>&nbsp;</p>
 <p>The action pack utilises the AWS CLI and should be installed on a Windows or Linux Automic agent. Please refer to the Amazon CLI documentatation for instructions on how to download, install and configure the CLI.</p>
 
